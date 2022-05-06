@@ -1,0 +1,45 @@
+[
+  {
+    "PedComponentFlags": {
+      "unkFlag1": false,
+      "unkFlag2": false,
+      "unkFlag3": false,
+      "unkFlag4": false,
+      "isHighHeels": false
+    },
+    "PedPropFlags": {
+      "unkFlag1": false,
+      "unkFlag2": false,
+      "unkFlag3": false,
+      "unkFlag4": false,
+      "unkFlag5": false
+    },
+    "Textures": [
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_a_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_b_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_c_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_d_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_e_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_f_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_g_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_h_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_i_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_j_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_k_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_l_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_m_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_n_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_o_uni.ytd",
+      "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_diff_018_p_uni.ytd"
+    ],
+    "ClothType": 0,
+    "DrawableType": 6,
+    "MainPath": "D:\\My Document\\FiveM\\ClothingWorkshop\\clothing-mod\\balenciaga\\feet_018_u.ydd",
+    "FirstPersonModelPath": "",
+    "TargetSex": 0,
+    "Icon": "👨🏻",
+    "Type": "🧥",
+    "Name": "Shoes_018",
+    "DisplayName": "Shoes_018 (ID: 0) (-) (Shoes)"
+  }
+]
